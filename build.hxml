@@ -1,0 +1,4 @@
+-cp .
+js.jquery.JQuery
+-main Main
+-js main.js

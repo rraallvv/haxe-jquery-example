@@ -1,0 +1,7 @@
+{
+    "version": "0.1.0",
+    "command": "haxe",
+    "isShellCommand": true,
+    "args": ["build.hxml"],
+    "showOutput": "always"
+}
